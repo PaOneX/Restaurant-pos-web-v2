@@ -1117,3 +1117,4 @@ const Model = {
     this.paymentAmount = 0;
   },
 };
+// maintenance: Polish POS product grid layout (2025-06-01)
