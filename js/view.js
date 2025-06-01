@@ -1121,4 +1121,4 @@ const View = {
             timer: 2000,
             showConfirmButton: false
         });
-    }};
+    }};// maintenance: Update dining table status handling (2025-06-01)
