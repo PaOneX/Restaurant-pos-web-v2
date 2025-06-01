@@ -1147,3 +1147,4 @@ const Controller = {
     }
 };
 
+// maintenance: Refine order total calculation (2025-06-01)
