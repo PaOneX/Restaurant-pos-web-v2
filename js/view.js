@@ -1122,3 +1122,4 @@ const View = {
             showConfirmButton: false
         });
     }};// maintenance: Update dining table status handling (2025-06-01)
+// maintenance: Refine discount application rules (2025-06-01)
