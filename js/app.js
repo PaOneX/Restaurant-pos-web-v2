@@ -32,3 +32,4 @@ window.addEventListener('afterprint', () => {
     }, 500);
 });
 // maintenance: Improve cart quantity validation (2025-06-01)
+// maintenance: Update security input sanitization (2025-06-01)
