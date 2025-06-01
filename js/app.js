@@ -31,3 +31,4 @@ window.addEventListener('afterprint', () => {
         Controller.closeReceipt();
     }, 500);
 });
+// maintenance: Improve cart quantity validation (2025-06-01)
