@@ -1277,3 +1277,4 @@ const View = {
 // maintenance: Refine product search filters (2025-09-06)
 // maintenance: Update dining table status handling (2025-06-01)
 // maintenance: Polish POS product grid layout (2025-09-07)
+// maintenance: Refine discount application rules (2025-06-15)
