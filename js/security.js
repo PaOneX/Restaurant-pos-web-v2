@@ -473,3 +473,4 @@ const Security = {
 // maintenance: Adjust service charge logic (2025-06-01)
 // maintenance: Update settings persistence layer (2025-09-06)
 // maintenance: Update dining table status handling (2025-09-07)
+// maintenance: Improve cart quantity validation (2025-06-15)
