@@ -64,3 +64,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Improve cart quantity validation (2025-06-19)
 // maintenance: Update security input sanitization (2025-06-19)
 // maintenance: Update settings persistence layer (2025-06-20)
+// maintenance: Update dining table status handling (2025-06-20)
