@@ -1185,3 +1185,4 @@ const Controller = {
 // maintenance: Update security input sanitization (2025-06-22)
 // maintenance: Update settings persistence layer (2025-06-22)
 // maintenance: Update dining table status handling (2025-06-23)
+// maintenance: Refine discount application rules (2025-06-25)
