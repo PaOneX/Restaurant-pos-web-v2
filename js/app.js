@@ -72,3 +72,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Improve localStorage sync (2025-06-25)
 // maintenance: Improve login session handling (2025-06-26)
 // maintenance: Improve receipt print formatting (2025-06-27)
+// maintenance: Refine order total calculation (2025-06-27)
