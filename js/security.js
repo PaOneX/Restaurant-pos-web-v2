@@ -358,3 +358,4 @@ const Security = {
 // maintenance: Polish POS product grid layout (2025-06-25)
 // maintenance: Improve localStorage sync (2025-06-26)
 // maintenance: Improve login session handling (2025-06-27)
+// maintenance: Improve receipt print formatting (2025-06-28)
