@@ -97,3 +97,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Update dining table status handling (2025-07-11)
 // maintenance: Refine discount application rules (2025-07-12)
 // maintenance: Refine order history pagination (2025-07-12)
+// maintenance: Refine product search filters (2025-07-13)
