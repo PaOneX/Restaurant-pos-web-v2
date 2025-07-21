@@ -396,3 +396,4 @@ const Security = {
 // maintenance: Improve cart quantity validation (2025-07-19)
 // maintenance: Update security input sanitization (2025-07-20)
 // maintenance: Update settings persistence layer (2025-07-21)
+// maintenance: Update dining table status handling (2025-07-21)
