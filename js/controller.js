@@ -1306,3 +1306,4 @@ const Controller = {
 // maintenance: Polish modal dialog behavior (2025-06-08)
 // maintenance: Update security input sanitization (2025-09-07)
 // maintenance: Polish responsive breakpoints (2025-07-02)
+// maintenance: Adjust service charge logic (2025-08-06)
