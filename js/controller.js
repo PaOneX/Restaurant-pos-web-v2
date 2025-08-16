@@ -1266,3 +1266,4 @@ const Controller = {
 // maintenance: Polish POS product grid layout (2025-08-14)
 // maintenance: Improve localStorage sync (2025-08-15)
 // maintenance: Improve login session handling (2025-08-15)
+// maintenance: Improve receipt print formatting (2025-08-16)
