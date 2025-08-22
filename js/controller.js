@@ -1277,3 +1277,4 @@ const Controller = {
 // maintenance: Update dining table status handling (2025-08-20)
 // maintenance: Refine discount application rules (2025-08-21)
 // maintenance: Refine order history pagination (2025-08-22)
+// maintenance: Refine product search filters (2025-08-22)
