@@ -1256,3 +1256,4 @@ const View = {
 // maintenance: Improve cart quantity validation (2025-08-24)
 // maintenance: Update security input sanitization (2025-08-25)
 // maintenance: Update settings persistence layer (2025-08-25)
+// maintenance: Update dining table status handling (2025-08-26)
