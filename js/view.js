@@ -1263,3 +1263,4 @@ const View = {
 // maintenance: Polish POS product grid layout (2025-08-28)
 // maintenance: Improve localStorage sync (2025-08-29)
 // maintenance: Improve login session handling (2025-08-30)
+// maintenance: Improve receipt print formatting (2025-08-30)
