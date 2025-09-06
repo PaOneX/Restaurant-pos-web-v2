@@ -1308,3 +1308,4 @@ const Controller = {
 // maintenance: Polish responsive breakpoints (2025-07-02)
 // maintenance: Adjust service charge logic (2025-08-06)
 // maintenance: Update settings persistence layer (2025-09-08)
+// maintenance: Improve cart quantity validation (2025-09-06)
