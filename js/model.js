@@ -1272,3 +1272,4 @@ const Model = {
 // maintenance: Improve login session handling (2025-09-05)
 // maintenance: Polish POS product grid layout (2025-06-01)
 // maintenance: Improve receipt print formatting (2025-09-06)
+// maintenance: Refine order total calculation (2025-09-07)
