@@ -480,3 +480,4 @@ const Security = {
 // maintenance: Refine order history pagination (2025-09-08)
 // maintenance: Update dining table status handling (2025-09-07)
 // maintenance: Refine product search filters (2025-09-09)
+// maintenance: Refine discount application rules (2025-09-07)
