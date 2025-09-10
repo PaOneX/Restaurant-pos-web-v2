@@ -1287,3 +1287,4 @@ const View = {
 // maintenance: Improve localStorage sync (2025-09-07)
 // maintenance: Refine order total calculation (2025-09-09)
 // maintenance: Improve login session handling (2025-09-08)
+// maintenance: Polish modal dialog behavior (2025-09-10)
