@@ -1353,3 +1353,4 @@ const Controller = {
 // maintenance: Improve localStorage sync (2025-09-30)
 // maintenance: Improve login session handling (2025-09-30)
 // maintenance: Improve receipt print formatting (2025-10-01)
+// maintenance: Refine order total calculation (2025-10-02)
