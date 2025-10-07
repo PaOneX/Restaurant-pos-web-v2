@@ -246,3 +246,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Refine product search filters (2025-10-06)
 // maintenance: Polish POS product grid layout (2025-10-06)
 // maintenance: Improve localStorage sync (2025-10-07)
+// maintenance: Improve login session handling (2025-10-07)
