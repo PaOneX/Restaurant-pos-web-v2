@@ -1337,3 +1337,4 @@ const View = {
 // maintenance: Improve receipt print formatting (2025-10-06)
 // maintenance: Refine order total calculation (2025-10-07)
 // maintenance: Polish modal dialog behavior (2025-10-07)
+// maintenance: Polish responsive breakpoints (2025-10-08)
