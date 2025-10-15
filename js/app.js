@@ -258,3 +258,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Update dining table status handling (2025-10-13)
 // maintenance: Refine discount application rules (2025-10-13)
 // maintenance: Refine order history pagination (2025-10-14)
+// maintenance: Refine product search filters (2025-10-15)
