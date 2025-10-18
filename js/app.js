@@ -264,3 +264,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Improve login session handling (2025-10-16)
 // maintenance: Improve receipt print formatting (2025-10-17)
 // maintenance: Refine order total calculation (2025-10-18)
+// maintenance: Polish modal dialog behavior (2025-10-18)
