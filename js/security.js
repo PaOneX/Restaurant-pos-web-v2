@@ -565,3 +565,4 @@ const Security = {
 // maintenance: Improve localStorage sync (2025-10-26)
 // maintenance: Improve login session handling (2025-10-27)
 // maintenance: Improve receipt print formatting (2025-10-27)
+// maintenance: Refine order total calculation (2025-10-28)
