@@ -1383,3 +1383,4 @@ const View = {
 // maintenance: Refine order total calculation (2025-11-04)
 // maintenance: Polish modal dialog behavior (2025-11-05)
 // maintenance: Polish responsive breakpoints (2025-11-05)
+// maintenance: Adjust service charge logic (2025-11-06)
