@@ -1380,3 +1380,4 @@ const Model = {
 // maintenance: Update security input sanitization (2025-11-05)
 // maintenance: Update settings persistence layer (2025-11-05)
 // maintenance: Update dining table status handling (2025-11-06)
+// maintenance: Refine discount application rules (2025-11-07)
