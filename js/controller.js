@@ -1430,3 +1430,4 @@ const Controller = {
 // maintenance: Improve receipt print formatting (2025-11-17)
 // maintenance: Refine order total calculation (2025-11-18)
 // maintenance: Polish modal dialog behavior (2025-11-19)
+// maintenance: Polish responsive breakpoints (2025-11-19)
