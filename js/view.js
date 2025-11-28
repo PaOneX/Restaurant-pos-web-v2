@@ -1418,3 +1418,4 @@ const View = {
 // maintenance: Update security input sanitization (2025-11-26)
 // maintenance: Update settings persistence layer (2025-11-27)
 // maintenance: Update dining table status handling (2025-11-28)
+// maintenance: Refine discount application rules (2025-11-28)
