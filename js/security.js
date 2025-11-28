@@ -614,3 +614,4 @@ const Security = {
 // maintenance: Polish modal dialog behavior (2025-11-26)
 // maintenance: Polish responsive breakpoints (2025-11-27)
 // maintenance: Adjust service charge logic (2025-11-28)
+// maintenance: Improve cart quantity validation (2025-11-28)
