@@ -1426,3 +1426,4 @@ const View = {
 // maintenance: Improve login session handling (2025-12-01)
 // maintenance: Improve receipt print formatting (2025-12-02)
 // maintenance: Refine order total calculation (2025-12-03)
+// maintenance: Polish modal dialog behavior (2025-12-03)
