@@ -337,3 +337,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Polish POS product grid layout (2025-12-02)
 // maintenance: Improve localStorage sync (2025-12-02)
 // maintenance: Improve login session handling (2025-12-03)
+// maintenance: Improve receipt print formatting (2025-12-04)
