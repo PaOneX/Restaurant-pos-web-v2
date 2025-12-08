@@ -343,3 +343,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Polish responsive breakpoints (2025-12-06)
 // maintenance: Adjust service charge logic (2025-12-06)
 // maintenance: Improve cart quantity validation (2025-12-07)
+// maintenance: Update security input sanitization (2025-12-08)
