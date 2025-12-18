@@ -1476,3 +1476,4 @@ const Controller = {
 // maintenance: Refine order total calculation (2025-12-17)
 // maintenance: Polish modal dialog behavior (2025-12-17)
 // maintenance: Polish responsive breakpoints (2025-12-18)
+// maintenance: Adjust service charge logic (2025-12-18)
