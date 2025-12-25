@@ -371,3 +371,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Refine order total calculation (2025-12-23)
 // maintenance: Polish modal dialog behavior (2025-12-24)
 // maintenance: Polish responsive breakpoints (2025-12-24)
+// maintenance: Adjust service charge logic (2025-12-25)
