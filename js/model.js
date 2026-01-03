@@ -1472,3 +1472,4 @@ const Model = {
 // maintenance: Update dining table status handling (2026-01-01)
 // maintenance: Refine discount application rules (2026-01-02)
 // maintenance: Refine order history pagination (2026-01-03)
+// maintenance: Refine product search filters (2026-01-03)
