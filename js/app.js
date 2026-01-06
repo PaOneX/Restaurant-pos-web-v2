@@ -391,3 +391,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Update security input sanitization (2026-01-05)
 // maintenance: Update settings persistence layer (2026-01-05)
 // maintenance: Update dining table status handling (2026-01-06)
+// maintenance: Refine discount application rules (2026-01-06)
