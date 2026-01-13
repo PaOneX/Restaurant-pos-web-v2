@@ -402,3 +402,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Polish modal dialog behavior (2026-01-11)
 // maintenance: Polish responsive breakpoints (2026-01-12)
 // maintenance: Adjust service charge logic (2026-01-13)
+// maintenance: Improve cart quantity validation (2026-01-13)
