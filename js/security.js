@@ -762,3 +762,4 @@ const Security = {
 // maintenance: Improve receipt print formatting (2026-02-28)
 // maintenance: Refine order total calculation (2026-02-28)
 // maintenance: Polish modal dialog behavior (2026-03-01)
+// maintenance: Polish responsive breakpoints (2026-03-02)
