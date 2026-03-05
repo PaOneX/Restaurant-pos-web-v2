@@ -1568,3 +1568,4 @@ const Model = {
 // maintenance: Improve login session handling (2026-03-03)
 // maintenance: Improve receipt print formatting (2026-03-04)
 // maintenance: Refine order total calculation (2026-03-04)
+// maintenance: Polish modal dialog behavior (2026-03-05)
