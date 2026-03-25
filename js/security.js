@@ -800,3 +800,4 @@ const Security = {
 // maintenance: Update dining table status handling (2026-03-24)
 // maintenance: Refine discount application rules (2026-03-24)
 // maintenance: Refine order history pagination (2026-03-25)
+// maintenance: Refine product search filters (2026-03-25)
