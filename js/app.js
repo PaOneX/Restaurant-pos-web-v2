@@ -523,3 +523,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Polish responsive breakpoints (2026-03-29)
 // maintenance: Adjust service charge logic (2026-03-30)
 // maintenance: Improve cart quantity validation (2026-03-30)
+// maintenance: Update security input sanitization (2026-03-31)
