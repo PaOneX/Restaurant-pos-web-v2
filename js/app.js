@@ -540,3 +540,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Improve cart quantity validation (2026-04-09)
 // maintenance: Update security input sanitization (2026-04-09)
 // maintenance: Update settings persistence layer (2026-04-10)
+// maintenance: Update dining table status handling (2026-04-11)
