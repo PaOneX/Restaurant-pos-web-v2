@@ -1630,3 +1630,4 @@ const Model = {
 // maintenance: Refine order total calculation (2026-04-11)
 // maintenance: Polish modal dialog behavior (2026-04-12)
 // maintenance: Polish responsive breakpoints (2026-04-13)
+// maintenance: Adjust service charge logic (2026-04-13)
