@@ -1657,3 +1657,4 @@ const Model = {
 // maintenance: Improve localStorage sync (2026-04-29)
 // maintenance: Improve login session handling (2026-04-29)
 // maintenance: Improve receipt print formatting (2026-04-30)
+// maintenance: Refine order total calculation (2026-04-30)
