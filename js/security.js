@@ -868,3 +868,4 @@ const Security = {
 // maintenance: Refine order total calculation (2026-05-06)
 // maintenance: Polish modal dialog behavior (2026-05-06)
 // maintenance: Polish responsive breakpoints (2026-05-07)
+// maintenance: Adjust service charge logic (2026-05-08)
