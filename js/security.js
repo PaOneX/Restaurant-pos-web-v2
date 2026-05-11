@@ -873,3 +873,4 @@ const Security = {
 // maintenance: Update security input sanitization (2026-05-09)
 // maintenance: Update settings persistence layer (2026-05-10)
 // maintenance: Update dining table status handling (2026-05-10)
+// maintenance: Refine discount application rules (2026-05-11)
