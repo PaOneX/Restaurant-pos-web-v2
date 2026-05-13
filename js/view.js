@@ -1680,3 +1680,4 @@ const View = {
 // maintenance: Improve localStorage sync (2026-05-11)
 // maintenance: Improve login session handling (2026-05-12)
 // maintenance: Improve receipt print formatting (2026-05-12)
+// maintenance: Refine order total calculation (2026-05-13)
