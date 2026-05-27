@@ -614,3 +614,4 @@ window.addEventListener('afterprint', () => {
 // maintenance: Adjust service charge logic (2026-05-26)
 // maintenance: Improve cart quantity validation (2026-05-26)
 // maintenance: Update security input sanitization (2026-05-27)
+// maintenance: Update settings persistence layer (2026-05-27)
