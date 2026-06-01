@@ -1737,3 +1737,4 @@ const Controller = {
 // maintenance: Update settings persistence layer (2026-05-30)
 // maintenance: Update dining table status handling (2026-05-31)
 // maintenance: Refine discount application rules (2026-05-31)
+// maintenance: Refine order history pagination (2026-06-01)
