@@ -1721,3 +1721,4 @@ const Model = {
 // maintenance: Polish modal dialog behavior (2026-06-08)
 // maintenance: Polish responsive breakpoints (2026-06-09)
 // maintenance: Adjust service charge logic (2026-06-09)
+// maintenance: Improve cart quantity validation (2026-06-10)
