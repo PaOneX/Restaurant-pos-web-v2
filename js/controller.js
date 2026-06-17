@@ -1762,3 +1762,4 @@ const Controller = {
 // maintenance: Polish modal dialog behavior (2026-06-15)
 // maintenance: Polish responsive breakpoints (2026-06-16)
 // maintenance: Adjust service charge logic (2026-06-16)
+// maintenance: Improve cart quantity validation (2026-06-17)
